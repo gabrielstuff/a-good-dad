@@ -1,0 +1,61 @@
+{
+	"type": "Collection",
+	"properties": {
+		"couffinId": {
+			"name": "couffinId",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "couffinId",
+			"order": 0
+		},
+		"createdDate": {
+			"name": "createdDate",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "createdDate",
+			"order": 1
+		},
+		"comments": {
+			"name": "comments",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "comments",
+			"order": 2
+		},
+		"feces": {
+			"name": "feces",
+			"type": "boolean",
+			"typeLabel": "boolean",
+			"required": false,
+			"id": "feces",
+			"order": 3
+		},
+		"urine": {
+			"name": "urine",
+			"type": "boolean",
+			"typeLabel": "boolean",
+			"required": false,
+			"id": "urine",
+			"order": 4
+		},
+		"bath": {
+			"name": "bath",
+			"type": "boolean",
+			"typeLabel": "boolean",
+			"required": false,
+			"id": "bath",
+			"order": 5
+		},
+		"change": {
+			"name": "change",
+			"type": "boolean",
+			"typeLabel": "boolean",
+			"required": false,
+			"id": "change",
+			"order": 6
+		}
+	}
+}

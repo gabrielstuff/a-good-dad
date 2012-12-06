@@ -1,0 +1,1 @@
+cancelUnless(isMe(this.memberId), "You are not authorized to edit that post", 401);

@@ -1,0 +1,11 @@
+{
+    "type": "Email",
+    "host": "smtp.gmail.com",
+    "port": "25",
+    "ssl": true,
+    "username": "bigadel@gmail.com",
+    "password": "654aze02",
+    "defaultFromAddress": "new-mission@domain.com",
+    "internalOnly": false,
+    "productionOnly": false
+}

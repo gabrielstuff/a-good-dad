@@ -1,0 +1,45 @@
+{
+	"type": "UserCollection",
+	"properties": {
+		"name": {
+			"name": "name",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "name",
+			"order": 0
+		},
+		"fname": {
+			"name": "fname",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "fname",
+			"order": 1
+		},
+		"sex": {
+			"name": "sex",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "sex",
+			"order": 2
+		},
+		"bdate": {
+			"name": "bdate",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "bdate",
+			"order": 3
+		},
+		"mail": {
+			"name": "mail",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "mail",
+			"order": 4
+		}
+	}
+}
